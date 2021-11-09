@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @decadento
-- 👀 I’m interested in progrmming, learning new technologies
-- 🌱 I’m currently learning programmimg languages like Python, C++, Java, C, C#.
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @decadento.
+- 👀 I’m interested in programming, learning new technologies.
+- 🌱 I’m currently learning programmimg languages like Python, C++, Java, C#.
+- 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me ...
 
 <!---
